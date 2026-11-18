@@ -1,29 +1,89 @@
 <!doctype html>
 <html lang="uz">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Iqtisodiyot Test</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#071326">
+<title>IQTISODIYOT — Test Arena</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-<header><div class="logo">IQ</div><div><b>IQTISODIYOT</b><small> TEST PLATFORMASI</small></div><span class="online">● Online</span></header>
+<div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+<header class="topbar">
+  <div class="brand-mark">IQ<span>+</span></div>
+  <div class="brand-copy"><b>IQTISODIYOT</b><small>LEARNING ARENA</small></div>
+  <div class="online"><i></i> ONLINE</div>
+</header>
 <main>
-<section class="hero"><p class="eyebrow">XUSH KELIBSIZ</p><h1 id="welcome">Bilimingizni sinab ko‘ring</h1><p>Fan tanlang va testni boshlang.</p></section>
-<section class="panel" id="home">
-<h2>Fanlar</h2><div id="subjects" class="subjects"><p>Yuklanmoqda...</p></div>
-</section>
-<section class="panel hidden" id="quiz">
-<div class="quiz-top"><span id="subject-title"></span><span id="counter"></span></div>
-<div class="progress"><i id="progress"></i></div>
-<h2 id="question"></h2><div id="answers" class="answers"></div>
-<button id="next" class="primary" disabled>Keyingi savol</button>
-</section>
-<section class="panel hidden" id="result">
-<p class="eyebrow">TEST YAKUNLANDI</p><h2>Natijangiz</h2><div class="score" id="score"></div><p id="score-text"></p>
-<button class="primary" onclick="location.reload()">Bosh sahifaga qaytish</button>
-</section>
+  <section class="hero">
+    <div class="hero-copy"><div class="eyebrow"><span class="spark">✦</span> BILIMINGIZNI SINOVDAN O‘TKAZING</div>
+      <h1>Bilim sari<br><span>yangi bosqich.</span></h1>
+      <p>O‘rganing, bellashing va natijangizni sertifikat bilan tasdiqlang.</p>
+    </div>
+    <div class="hero-orb"><div class="orb-core">IQ</div><span class="orb-ring ring-a"></span><span class="orb-ring ring-b"></span><b class="orb-tag">LEVEL UP</b></div>
+  </section>
+
+  <section class="welcome-strip">
+    <div class="avatar" id="avatar">J</div><div class="welcome-text"><small>XUSH KELIBSIZ</small><b id="welcome">Talaba</b></div>
+    <div class="streak"><span>✦</span><b id="best-score">0%</b><small>ENG YAXSHI</small></div>
+  </section>
+
+  <nav class="tabs" aria-label="Asosiy bo‘limlar">
+    <button class="tab active" data-view="home">⌂ <span>Bosh sahifa</span></button>
+    <button class="tab" data-view="ranking">♛ <span>Reyting</span></button>
+    <button class="tab" data-view="profile">◉ <span>Kabinet</span></button>
+  </nav>
+
+  <section id="home-view" class="view">
+    <div class="section-heading"><div><div class="eyebrow">SIZ UCHUN</div><h2>Fanlar katalogi</h2></div><span class="section-chip" id="subject-count">0 TA FAN</span></div>
+    <div id="subjects" class="subject-grid"><div class="loading-card">Fanlar yuklanmoqda...</div></div>
+    <div class="feature-row">
+      <div class="feature-icon">🏆</div><div><b>Har bir natija — yangi yutuq</b><p>70% va undan yuqori natija uchun sertifikat olish imkoniyati.</p></div>
+    </div>
+  </section>
+
+  <section id="quiz-view" class="view hidden">
+    <button class="back-link" id="quit-quiz">← Fanlarga qaytish</button>
+    <div class="quiz-card">
+      <div class="quiz-meta"><span class="pill" id="quiz-subject">FAN</span><span class="timer">◷ <b id="timer">05:00</b></span></div>
+      <div class="progress-line"><i id="progress"></i></div>
+      <div class="question-count">SAVOL <b id="counter">1/10</b></div>
+      <h2 id="question">Savol yuklanmoqda...</h2>
+      <div id="answers" class="answer-list"></div>
+      <button id="next" class="primary-btn" disabled>Keyingi savol <span>→</span></button>
+    </div>
+  </section>
+
+  <section id="result-view" class="view hidden">
+    <div class="result-card">
+      <div class="result-emblem">✦</div><div class="eyebrow">TEST YAKUNLANDI</div><h2>Natijangiz</h2>
+      <div class="result-score" id="score">0/0</div><div class="result-track"><i id="result-fill"></i></div>
+      <p id="score-text">Natija: 0%</p>
+      <div id="certificate-note" class="certificate-note"></div>
+      <button class="primary-btn" id="certificate-btn">Sertifikatni olish <span>↗</span></button>
+      <button class="secondary-btn" id="again-btn">Bosh sahifaga qaytish</button>
+    </div>
+  </section>
+
+  <section id="ranking-view" class="view hidden">
+    <div class="section-heading"><div><div class="eyebrow">ENG FAOL ISHTIROKCHILAR</div><h2>Reyting jadvali</h2></div><span class="section-chip">TOP 50</span></div>
+    <div id="leaderboard" class="list-card"><div class="loading-card">Reyting yuklanmoqda...</div></div>
+  </section>
+
+  <section id="profile-view" class="view hidden">
+    <div class="section-heading"><div><div class="eyebrow">SHAXSIY MAYDON</div><h2>Shaxsiy kabinet</h2></div></div>
+    <div class="profile-card"><div class="profile-avatar" id="profile-avatar">J</div><div><h3 id="profile-name">Talaba</h3><p id="profile-handle">Telegram foydalanuvchisi</p></div></div>
+    <div class="stats-grid">
+      <div class="stat-card"><small>TESTLAR</small><b id="attempts">0</b></div>
+      <div class="stat-card"><small>TO‘G‘RI JAVOBLAR</small><b id="correct-total">0</b></div>
+      <div class="stat-card"><small>ENG YAXSHI NATIJA</small><b id="profile-best">0%</b></div>
+    </div>
+    <div class="section-heading compact"><div><h2>Oxirgi urinishlar</h2></div></div>
+    <div id="history" class="list-card"><div class="loading-card">Tarix yuklanmoqda...</div></div>
+  </section>
 </main>
-<footer>Bilim — eng katta sarmoya.</footer>
+<footer><span class="footer-mark">IQ+</span><span>Bilim — eng katta sarmoya.</span><span class="footer-version">EDITION 1.0</span></footer>
 <script src="/static/app.js"></script>
 </body></html>

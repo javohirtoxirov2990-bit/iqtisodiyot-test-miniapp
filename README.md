@@ -1,51 +1,50 @@
-# Iqtisodiyot Test — Telegram Mini App starter
+# IQ+ Iqtisodiyot Test Arena
 
-## 1. Kerak bo‘ladi
-- Python 3.10+
-- Telegram bot tokeni (BotFather orqali olinadi)
-- HTTPS domen yoki HTTPS tunnel (Telegram Mini App uchun)
+Telegram Mini App uchun FastAPI + SQLite asosidagi boshlang‘ich loyiha.
 
-## 2. O‘rnatish
-```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+## Render sozlamalari
 
-`.env.example` nusxasini `.env` deb saqlang. `BOT_TOKEN` va `ADMIN_KEY` qiymatlarini kiriting.
-Muhim: `.env` faylini hech kimga yubormang va bot tokenini ommaga chiqarmang.
+- Service type: **Web Service**
+- Runtime: **Python 3**
+- Root Directory: bo‘sh qoldiring
+- Build Command: `pip install -r requirements.txt`
+- Start Command: `uvicorn app:app --host 0.0.0.0 --port $PORT`
 
-Linux/macOS:
-```bash
-export BOT_TOKEN="BOTFATHER_TOKEN"
-export ADMIN_KEY="UZUN_MAXFIY_KALIT"
-uvicorn app:app --host 0.0.0.0 --port 8000
-```
+### Environment Variables
 
-Windows PowerShell:
-```powershell
-$env:BOT_TOKEN="BOTFATHER_TOKEN"
-$env:ADMIN_KEY="UZUN_MAXFIY_KALIT"
-uvicorn app:app --host 0.0.0.0 --port 8000
-```
+Render → Environment bo‘limida quyidagilarni kiriting:
 
-Saytni lokal tekshirish: http://127.0.0.1:8000
-Telegram ichida ishlashi uchun HTTPS manzil kerak. BotFather'da /setmenubutton orqali Web App URL sifatida HTTPS manzilni belgilang.
+- `BOT_TOKEN` — BotFather bergan haqiqiy bot tokeni (KEY nomi aynan shunday).
+- `ADMIN_KEY` — uzun va taxmin qilib bo‘lmaydigan maxfiy kalit.
+- `DB_PATH` — doimiy disk ishlatilsa `/var/data/quiz.db`.
 
-## 3. Savol qo‘shish
-Admin kaliti bilan POST `/api/admin/question` so‘rovini yuboring. Masalan:
-```bash
-curl -X POST https://YOUR-DOMAIN/api/admin/question \
-  -H "Content-Type: application/json" \
-  -H "X-Admin-Key: UZUN_MAXFIY_KALIT" \
-  -d '{"subject":"Mikroiqtisodiyot","question":"Talab nima?","a":"Xarid qilish istagi va imkoniyati","b":"Faqat ishlab chiqarish","c":"Soliq turi","d":"Pul birligi","correct":"a"}'
-```
+**Muhim:** token yoki maxfiy kalitni GitHub'ga, skrinshotga yoki boshqa odamlarga yubormang. `BOT_TOKEN` qiymati tokenning o‘zi bo‘ladi; KEY ustuniga ism yoki raqam kiritilmaydi.
 
-## 4. Muhim eslatmalar
-- Bu boshlang‘ich MVP: namuna savollar, test ishlash va natijani saqlash bor.
-- Hozircha ommaviy reyting sahifasi va to‘liq admin interfeysi kiritilmagan; keyingi bosqichda qo‘shiladi.
-- Ishlab chiqarish serverida HTTPS, maxfiy kalitlarni xavfsiz saqlash, zaxira nusxa va so‘rovlarni cheklashni sozlang.
-- Telegram `initData` serverda HMAC orqali tekshiriladi. Mini App'ni oddiy brauzerda emas, Telegram ichida oching.
+### Ma’lumotlar bazasini saqlash
+
+Render'da Persistent Disk yarating va mount path sifatida `/var/data` belgilang. Shunda `DB_PATH=/var/data/quiz.db` qiymati bilan SQLite ma’lumotlari deploylardan keyin saqlanadi. Persistent Disk ulanmagan bo‘lsa, bepul/ephemeral fayl tizimida baza yo‘qolishi mumkin.
+
+## Telegram Mini App
+
+1. Render deploy muvaffaqiyatli bo‘lgach, HTTPS domenni oling.
+2. BotFather'da `/setmenubutton` orqali shu HTTPS manzilni Web App URL sifatida belgilang.
+3. Ilovani Telegram ichidagi bot tugmasi orqali oching. Oddiy brauzerda Telegram `initData` bo‘lmagani sababli API ishlamaydi.
+
+## Hozirgi imkoniyatlar
+
+- Fanlar katalogi va fan bo‘yicha test boshlash.
+- 10 tagacha tasodifiy savol, 5 daqiqalik taymer va progress indikatori.
+- Server tomonida to‘g‘ri javoblarni tekshirish.
+- Test natijalarini SQLite bazasiga yozish.
+- Umumiy reyting va foydalanuvchining test tarixi.
+- Shaxsiy kabinetdagi asosiy statistika.
+- 70% va undan yuqori natijaga erishilganda chop etish mumkin bo‘lgan sertifikat maketi.
+
+Sertifikat hozircha brauzerning print oynasi orqali chiqariladi; rasmiy raqamli sertifikat verifikatsiyasi yoki QR-kod tizimi hali kiritilmagan. To‘liq admin paneli, savollarni ommaviy yuklash, kurslar va sertifikatlarni serverda ro‘yxatdan o‘tkazish keyingi bosqich vazifalaridir.
+
+## Xavfsizlik eslatmalari
+
+- Telegram `initData` serverda HMAC orqali tekshiriladi va 24 soatdan eski ma’lumotlar rad etiladi.
+- To‘g‘ri javoblar API orqali mijozga yuborilmaydi; natija server bazasidagi javob kaliti bilan hisoblanadi.
+- Ishga tushirishdan oldin `BOT_TOKEN` va `ADMIN_KEY` ni Render Environment'da sozlang.
+- Ishlab chiqarish muhitida muntazam zaxira nusxa oling.
