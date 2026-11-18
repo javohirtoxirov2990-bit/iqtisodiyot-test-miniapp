@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Iqtisodiyot Test</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header><div class="logo">IQ</div><div><b>IQTISODIYOT</b><small> TEST PLATFORMASI</small></div><span class="online">● Online</span></header>
+<main>
+<section class="hero"><p class="eyebrow">XUSH KELIBSIZ</p><h1 id="welcome">Bilimingizni sinab ko‘ring</h1><p>Fan tanlang va testni boshlang.</p></section>
+<section class="panel" id="home">
+<h2>Fanlar</h2><div id="subjects" class="subjects"><p>Yuklanmoqda...</p></div>
+</section>
+<section class="panel hidden" id="quiz">
+<div class="quiz-top"><span id="subject-title"></span><span id="counter"></span></div>
+<div class="progress"><i id="progress"></i></div>
+<h2 id="question"></h2><div id="answers" class="answers"></div>
+<button id="next" class="primary" disabled>Keyingi savol</button>
+</section>
+<section class="panel hidden" id="result">
+<p class="eyebrow">TEST YAKUNLANDI</p><h2>Natijangiz</h2><div class="score" id="score"></div><p id="score-text"></p>
+<button class="primary" onclick="location.reload()">Bosh sahifaga qaytish</button>
+</section>
+</main>
+<footer>Bilim — eng katta sarmoya.</footer>
+<script src="/static/app.js"></script>
+</body></html>

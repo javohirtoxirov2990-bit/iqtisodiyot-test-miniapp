@@ -1,0 +1,17 @@
+:root{font-family:Arial,sans-serif;color:#f5f7ff;background:#0c1730}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:linear-gradient(160deg,#10264b,#0b1428 55%)}
+header{height:76px;padding:14px 20px;display:flex;align-items:center;gap:12px;border-bottom:1px solid #293957}
+.logo{background:#e93653;border-radius:13px;padding:12px 14px;font-weight:900}
+header small{display:block;color:#9eacc4;font-size:10px;letter-spacing:2px;margin-top:4px}
+.online{margin-left:auto;color:#63d6ad;font-size:12px}
+main{max-width:680px;margin:24px auto;padding:0 16px}.hero{padding:20px 4px 24px}
+.eyebrow{color:#f04a65;font-weight:bold;letter-spacing:2px;font-size:12px}
+h1{font-size:29px;margin:8px 0}h2{font-size:20px}.hero p:last-child{color:#aab6cb}
+.panel{background:#15213a;border:1px solid #344360;border-radius:22px;padding:22px;margin:10px 0 20px}
+.subjects{display:grid;gap:12px}.subject{background:#202f50;border:1px solid #3b4d70;color:white;padding:17px;border-radius:13px;text-align:left;font-size:16px}
+button{cursor:pointer}.primary{background:#e93653;border:0;border-radius:12px;padding:15px;color:white;font-weight:bold;width:100%;margin-top:20px}
+.primary:disabled{opacity:.4}.hidden{display:none}.quiz-top{display:flex;justify-content:space-between;color:#aebbd0}
+.progress{height:6px;background:#344360;border-radius:10px;margin:16px 0 25px}.progress i{display:block;height:100%;background:#ed3e5b;width:0;border-radius:10px}
+.answers{display:grid;gap:10px}.answer{padding:15px;border:1px solid #405170;border-radius:12px;background:#202f50;color:white;text-align:left}
+.answer.selected{border-color:#f04460;background:#42283f}.score{font-size:48px;color:#f04460;font-weight:bold;margin:20px 0}
+footer{text-align:center;color:#7586a3;padding:24px;font-size:12px}
