@@ -1,0 +1,1083 @@
+{
+  "subject": "Iqtisodiy xavfsizlik",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda davlatning asosiy vazifalaridan biri qaysi?",
+      "options": {
+        "A": "Ichki bozorda tovarlar assortimenti va xizmatlar turini kengaytirish",
+        "B": "Strategik iqtisodiy manfaatlarni himoya qilish va xavfsizlikka tahdidlarni monitoring qilish",
+        "C": "Korxonalar tomonidan ishlab chiqariladigan mahsulot hajmini bevosita belgilash",
+        "D": "Iqtisodiy faoliyat subyektlari o‘rtasidagi shartnomaviy munosabatlarni muvofiqlashtirish va tartibga solish"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Iqtisodiy xavfsizlik fanining vazifalaridan biri qaysi?",
+      "options": {
+        "A": "Korxonalarning ishlab chiqarish quvvatlarini joylashtirish bo‘yicha qarorlar qabul qilish",
+        "B": "Iqtisodiy tahdidlarni baholash va salbiy ta’sirini kamaytirish yo‘llarini ishlab chiqish",
+        "C": "Aholining kundalik iste’mol tarkibini davlat tomonidan belgilash",
+        "D": "Tashqi savdo operatsiyalarining barcha turlarini ma’muriy tartibda boshqarish"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Iqtisodiy xavfsizlikning milliy xavfsizlik tizimidagi o‘rni qanday tavsiflanadi?",
+      "options": {
+        "A": "Aholining demografik tarkibini tartibga solishga qaratiladi",
+        "B": "Xalqaro diplomatik munosabatlarning asosiy yo‘nalishlarini belgilaydi",
+        "C": "Davlatning mudofaa salohiyatini shakllantirishga xizmat qiladi",
+        "D": "Iqtisodiy manfaatlar va barqaror rivojlanishni himoya qiladi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Iqtisodiy xavfsizlikning tarkibiy elementlari qaysi javobda to‘g‘ri berilgan?",
+      "options": {
+        "A": "Marketing, logistika, reklama, savdo, transport va xizmat ko‘rsatish xavfsizligi",
+        "B": "Moliyaviy, energetika, oziq-ovqat, texnologik, demografik va axborot xavfsizligi",
+        "C": "Budjet, eksport, import, iste’mol, investitsiya va ishlab chiqarish siyosati",
+        "D": "Turizm, aloqa, chakana savdo, maishiy xizmat, transport va sug‘urta yo‘nalishlari"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Moliyaviy xavfsizlikning iqtisodiy xavfsizlik tizimidagi asosiy vazifasi nimadan iborat?",
+      "options": {
+        "A": "Moliya tizimining barqarorligini va mamlakatning moliyaviy manfaatlari himoyasini ta’minlash",
+        "B": "Korxonalarning mahsulot sotish hajmini ko‘paytirish uchun marketing xarajatlarini boshqarish",
+        "C": "Davlat xarajatlarini barcha iqtisodiy sharoitlarda bir xil darajada saqlab qolish",
+        "D": "Moliya bozoridagi barcha operatsiyalarni davlat tashkilotlari orqali amalga oshirish"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Iqtisodiy xavfsizlikka tahdid tushunchasi nimani anglatadi?",
+      "options": {
+        "A": "Iqtisodiy faoliyat ishtirokchilarini qo‘llab-quvvatlashga xizmat qiluvchi rag‘batlantirish vositasini",
+        "B": "Ishlab chiqarish hajmini oshirishga qaratilgan uzoq muddatli rivojlanish dasturini",
+        "C": "Iqtisodiy manfaatlar va barqaror rivojlanishga zarar yetkazishi mumkin bo‘lgan omil yoki jarayonni",
+        "D": "Milliy iqtisodiyotda ijobiy tarkibiy o‘zgarishlarni yuzaga keltiruvchi iqtisodiy mexanizmni"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Iqtisodiy xavfsizlik tushunchasi qaysi mazmunni eng to‘liq ifodalaydi?",
+      "options": {
+        "A": "Milliy iqtisodiyotda qisqa muddatli yuqori iqtisodiy o‘sish sur’atlarining shakllanishi",
+        "B": "Davlat ishtirokini kengaytirish orqali xo‘jalik faoliyatining markazlashgan boshqarilishi",
+        "C": "Iqtisodiy manfaatlarning tahdidlardan himoyalanganligi va barqaror rivojlanish imkoniyati",
+        "D": "Tashqi savdoda eksport hajmini import hajmidan doimiy ravishda yuqori saqlash holati"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Iqtisodiy xavfsizlikning ichki tahdidlariga qaysi holat misol bo‘la oladi?",
+      "options": {
+        "A": "Xalqaro bozorlarda strategik mahsulotlarga bo‘lgan talabning vaqtincha kamayishi",
+        "B": "Xorijiy mamlakatlarda iqtisodiy faollikning pasayishi natijasida tashqi talabning qisqarishi",
+        "C": "Jahon xo‘jaligida tashqi savdo oqimlarining ayrim yo‘nalishlarda qayta taqsimlanishi",
+        "D": "Ishsizlikning ortishi, ishlab chiqarish samaradorligining pasayishi va moliyaviy beqarorlik"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Iqtisodiy xavfsizlik fanining predmeti nimani o‘rganishni nazarda tutadi?",
+      "options": {
+        "A": "Iqtisodiy xavfsizlikni ta’minlash jarayonidagi munosabatlar, tahdidlar, mezonlar va mexanizmlarni",
+        "B": "Ishlab chiqarish korxonalarida texnologik jarayonlarni tashkil etish va uskunalarni tanlash usullarini",
+        "C": "Uy xo‘jaliklarida iste’mol xarajatlarini rejalashtirish va daromadlarni taqsimlash mexanizmlarini",
+        "D": "Moliyaviy bozorlarda investitsiya portfellarini shakllantirish va daromadlilikni aniqlash tartibini"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Tashqi iqtisodiy tahdidning asosiy xususiyati nimada?",
+      "options": {
+        "A": "U asosan korxonalarning ichki boshqaruv tizimidagi kamchiliklari va tashkiliy muammolar natijasida yuzaga keladi",
+        "B": "U mamlakat tashqarisida shakllanib, milliy iqtisodiyot manfaatlariga ta’sir ko‘rsatishi mumkin",
+        "C": "U aholining daromadlari tarkibidagi o‘zgarishlar bilan bevosita bog‘liq holda shakllanadi",
+        "D": "U mamlakat ichidagi vaqtinchalik ishlab chiqarish muammolarini ifodalaydi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Iqtisodiy xavfsizlik indikatori nima?",
+      "options": {
+        "A": "Iqtisodiy xavfsizlik holati va uning o‘zgarishini miqdoriy yoki sifat jihatdan ifodalovchi ko‘rsatkich",
+        "B": "Korxona faoliyatida uzoq muddatli rivojlanishni ta’minlashga qaratilgan boshqaruv maqsadi va ichki rejalashtirish vazifalari majmuasi",
+        "C": "Davlatning iqtisodiy siyosatini belgilab beruvchi strategik yo‘nalishlar majmuasi",
+        "D": "Tashqi savdo munosabatlarini tartibga solishga xizmat qiluvchi davlat siyosati vositasi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Iqtisodiy xavfsizlikning chegaraviy qiymati qanday ahamiyatga ega?",
+      "options": {
+        "A": "Iqtisodiyotdagi barcha tarmoqlar uchun yagona moliyaviy natijani shakllantirishga xizmat qiladi",
+        "B": "Ko‘rsatkichning xavfsiz va tahlikali holatini ajratishda mezon sifatida xizmat qiladi",
+        "C": "Davlatning iqtisodiy o‘sish sur’atlarini barcha davrlar uchun bir xil darajada belgilaydi",
+        "D": "Korxonalar uchun moliyaviy natijalarning aniq miqdorini oldindan belgilash imkonini beradi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Indikatorlarni tanlashda qaysi mezon muhim hisoblanadi?",
+      "options": {
+        "A": "Ko‘rsatkichning bitta iqtisodiyot tarmog‘idagi jarayonlarni ifodalashi",
+        "B": "Ko‘rsatkichning boshqa mamlakatlarda qo‘llanilmagan bo‘lishi va milliy tizimga xosligi",
+        "C": "Ko‘rsatkichning iqtisodiy xavfsizlik holatini obyektiv va ishonchli aks ettira olishi",
+        "D": "Ko‘rsatkich qiymatining vaqt davomida o‘zgarmasdan bir xil darajada saqlanishi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Iqtisodiy xavfsizlik ko‘rsatkichlarini tizimli baholash nimaga imkon beradi?",
+      "options": {
+        "A": "Davlat iqtisodiy siyosatining barcha yo‘nalishlarini yagona mezon asosida boshqarishga",
+        "B": "Iqtisodiy xavfsizlikni baholashda boshqa ko‘rsatkichlardan foydalanish zaruratini yo‘qotish va tahlil jarayonini soddalashtirishga",
+        "C": "Barcha iqtisodiy xavflarni bitta ko‘rsatkich yordamida to‘liq bartaraf etishga",
+        "D": "Turli xavfsizlik yo‘nalishlarining holatini kompleks ravishda aniqlash va o‘zaro bog‘liqligini baholashga"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Iqtisodiy xavfsizlikni davlat tomonidan tartibga solishning mohiyati nimada?",
+      "options": {
+        "A": "Bozor mexanizmlarining barcha shakllarini ma’muriy boshqaruv bilan almashtirish va narxlarni to‘liq markazlashtirilgan tartibda belgilashda",
+        "B": "Ichki iqtisodiy faoliyatni tashqi bozorlar bilan aloqalardan maksimal darajada ajratishda",
+        "C": "Xususiy tadbirkorlik faoliyatini to‘liq davlat korxonalari orqali amalga oshirishda",
+        "D": "Iqtisodiy manfaatlarni himoya qilish, tahdidlarni kamaytirish va barqaror rivojlanish sharoitini yaratishda"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Iqtisodiy xavfsizlik fanining asosiy maqsadi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": {
+        "A": "Iqtisodiy xavfsizlikning nazariy va amaliy asoslarini o‘rganish hamda uni ta’minlash mexanizmlarini shakllantirish",
+        "B": "Xususiy sektorning iqtisodiy faoliyatini cheklash orqali davlat nazoratini kuchaytirish",
+        "C": "Iqtisodiyotdagi barcha rivojlanish jarayonlarini davlat korxonalari orqali tashkil etish",
+        "D": "Tashqi iqtisodiy aloqalarni qisqartirish orqali ichki ishlab chiqarishni ustuvor yo‘nalishga aylantirish va import hajmini to‘liq cheklash"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Iqtisodiy xavfsizlik konsepsiyasi nimani ifodalaydi?",
+      "options": {
+        "A": "Davlat budjetini shakllantirish va xarajatlarni tarmoqlar bo‘yicha taqsimlash tartibini",
+        "B": "Xavfsizlik maqsadlari, ustuvor yo‘nalishlari va asosiy mexanizmlariga oid qarashlar tizimini",
+        "C": "Tashqi savdo operatsiyalarida texnik talablarni belgilovchi ma’muriy tartiblar majmuini",
+        "D": "Korxonalarda ishlab chiqarish hajmini davlat tomonidan belgilashga qaratilgan boshqaruv tizimini"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Iqtisodiy xavfsizlikni davlat tomonidan tartibga solishning huquqiy mexanizmi nimaga asoslanadi?",
+      "options": {
+        "A": "Iste’molchilarning individual xohishlari va xarid qilish odatlariga",
+        "B": "Bozor ishtirokchilarining o‘zaro shakllangan odatlari va kelishuvlariga",
+        "C": "Qonunlar, normativ-huquqiy hujjatlar va iqtisodiy xavfsizlikka oid belgilangan me’yorlarga",
+        "D": "Korxonalar rahbariyatining ichki qarorlari va xo‘jalik yuritish bo‘yicha norasmiy kelishuvlariga"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda institutsional mexanizm deganda nima tushuniladi?",
+      "options": {
+        "A": "Tovarlarni ishlab chiqaruvchidan iste’molchiga yetkazib berishning logistika tizimi",
+        "B": "Korxonada mahsulot ishlab chiqarish bosqichlarining texnologik ketma-ketligini belgilash jarayoni",
+        "C": "Xavfsizlikni ta’minlovchi davlat organlari va boshqa institutlarning o‘zaro faoliyat tizimini",
+        "D": "Aholining daromadlarini kasb va faoliyat turlari bo‘yicha shakllantirish mexanizmi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Strategik resurslar tushunchasi nimani anglatadi?",
+      "options": {
+        "A": "Tayyor mahsulotlarni xorijiy bozorlarga yetkazib berishga mo‘ljallangan eksport zaxiralarini",
+        "B": "Korxonalarning qisqa muddatli operatsiyalarini moliyalashtirish uchun ajratilgan pul mablag‘larini",
+        "C": "Aholining kundalik ehtiyojlari uchun sarflanadigan iste’mol xarajatlarini",
+        "D": "Milliy iqtisodiyotning barqaror faoliyati va rivojlanishi uchun muhim bo‘lgan resurslarni"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "Strategik resurslarning asosiy turlariga qaysilar kiradi?",
+      "options": {
+        "A": "Mehnat, turizm, chakana savdo va maishiy xizmat ko‘rsatish faoliyatlari",
+        "B": "Yoqilg‘i-energetika, mineral-xomashyo, suv va yer resurslari",
+        "C": "Reklama, marketing, dizayn va savdo xizmatlari bilan bog‘liq nomoddiy vositalar",
+        "D": "Bank kreditlari, sug‘urta xizmatlari va korporativ qimmatli qog‘ozlar"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Energetika xavfsizligi tushunchasi qanday mazmunni anglatadi?",
+      "options": {
+        "A": "Elektr energiyasi ishlab chiqarish hajmining har yili o‘zgarmas darajada saqlanishini",
+        "B": "Iqtisodiyot va aholining energiya resurslari bilan barqaror, ishonchli va maqbul shartlarda ta’minlanganligini",
+        "C": "Mamlakatda ishlab chiqarilgan energiya resurslarining asosiy qismini ichki ehtiyojlarni hisobga olmasdan tashqi bozorlarga chiqarishni",
+        "D": "Energiya ishlab chiqarish faoliyatining davlat korxonalari tomonidan amalga oshirilishini"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Energetika xavfsizligining muhim tamoyillaridan biri qaysi?",
+      "options": {
+        "A": "Energetika sohasidagi yangi loyihalarga xususiy investitsiyalarni cheklash",
+        "B": "Iqtisodiy faoliyatdan qat’i nazar energiya iste’molini keskin qisqartirish",
+        "C": "Energiya ta’minotini bitta asosiy manbaga tayanish orqali tashkil etish",
+        "D": "Energiya ta’minotining ishonchliligi va manbalarni diversifikatsiya qilish"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "question": "Energetika xavfsizligiga tashqi tahdid sifatida nimani ko‘rsatish mumkin?",
+      "options": {
+        "A": "Mahalliy energetika infratuzilmasini modernizatsiya qilish bo‘yicha investitsiya loyihalarining amalga oshirilishi",
+        "B": "Jahon energetika bozoridagi narxlar o‘zgarishi yoki tashqi yetkazib berishdagi uzilishlar",
+        "C": "Qayta tiklanuvchi energiya manbalaridan foydalanish imkoniyatlarining kengayishi",
+        "D": "Energiya sarfini kamaytirishga qaratilgan ishlab chiqarish texnologiyalarining joriy etilishi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Qayta tiklanuvchi energiya manbalarining energetika xavfsizligidagi ahamiyati nimada?",
+      "options": {
+        "A": "Energetika tizimida mavjud infratuzilmadan foydalanish zaruratini butunlay yo‘q qiladi",
+        "B": "An’anaviy energiya resurslaridan foydalanishni barcha sohalarda darhol to‘xtatishni ta’minlaydi",
+        "C": "Qisqa muddatda mamlakatning barcha energiya ehtiyojlarini qo‘shimcha xarajatlarsiz to‘liq qoplash imkonini beradi",
+        "D": "Energiya manbalarini diversifikatsiya qilib, an’anaviy resurslarga qaramlikni kamaytirishga yordam beradi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "Strategik resurslardan samarali foydalanish nimani talab qiladi?",
+      "options": {
+        "A": "Resurslardan foydalanish hajmini iqtisodiy samaradorlikdan qat’i nazar muntazam oshirib borishni",
+        "B": "Resurslardan foydalanish bo‘yicha uzoq muddatli rejalashtirishdan voz kechib, joriy talabga moslashishni",
+        "C": "Mavjud strategik resurslarni asosan tashqi bozorlarga yo‘naltirib, ichki ehtiyojlarni ikkilamchi darajaga qo‘yishni",
+        "D": "Resurslardan oqilona foydalanish, ularni tejash, qayta tiklash va ta’minot manbalarini diversifikatsiya qilishni"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "Shaxsning iqtisodiy xavfsizligi nimani anglatadi?",
+      "options": {
+        "A": "Shaxsning barqaror daromad, bandlik va ijtimoiy himoya orqali iqtisodiy manfaatlari himoyalanganligini",
+        "B": "Shaxsning iqtisodiy faoliyatidagi barcha qarorlarni davlat organlari orqali amalga oshirishni",
+        "C": "Aholining iste’mol xarajatlarini markazlashgan tarzda davlat tomonidan belgilashni",
+        "D": "Fuqarolarning barcha daromadlarini davlat tomonidan kafolatlangan yagona manbaga birlashtirishni"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Shaxs iqtisodiy xavfsizligining asosiy ko‘rsatkichlaridan biri qaysi?",
+      "options": {
+        "A": "Aholi daromadlarining darajasi va barqarorligi",
+        "B": "Mamlakat oltin-valyuta zaxiralarining darajasi",
+        "C": "Korxonalar asosiy fondlarining qiymat darajasi",
+        "D": "Tashqi savdo aylanmasining umumiy darajasi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Shaxs iqtisodiy xavfsizligiga ishsizlik qanday ta’sir ko‘rsatadi?",
+      "options": {
+        "A": "Mehnat bozoridagi nomutanosibliklarni kamaytirib, ijtimoiy xarajatlar ehtiyojini pasaytiradi",
+        "B": "Daromadlarning kamayishi va ijtimoiy himoyaga ehtiyojning ortishi orqali iqtisodiy xavfsizlikni zaiflashtiradi",
+        "C": "Uy xo‘jaliklarining xarid imkoniyatlarini kengaytirib, ichki talabni barqarorlashtiradi",
+        "D": "Aholining kasbiy faoliyatini avtomatik ravishda diversifikatsiya qilib, daromad manbalarini ko‘paytiradi va moliyaviy barqarorlikni mustahkamlaydi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Kambag‘allikni qisqartirishning iqtisodiy xavfsizlikdagi ahamiyati nimada?",
+      "options": {
+        "A": "Aholining iqtisodiy faolligini davlat sektoridagi ish o‘rinlari bilan cheklash imkonini beradi",
+        "B": "Aholining daromad va iste’mol imkoniyatlarini yaxshilab, ijtimoiy-iqtisodiy barqarorlikni mustahkamlaydi",
+        "C": "Davlat budjetidagi barcha xarajatlarni qisqartirish orqali moliyaviy intizomni kuchaytiradi va ijtimoiy dasturlarni cheklaydi",
+        "D": "Mehnat bozoridagi ishchi kuchiga bo‘lgan talabni kamaytirish orqali xarajatlarni pasaytiradi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Shaxsning ijtimoiy himoyalanganligi iqtisodiy xavfsizlikka qanday ta’sir ko‘rsatadi?",
+      "options": {
+        "A": "Iqtisodiy qiyinchiliklar yuzaga kelganda shaxs va oilalarning barqarorligini saqlashga yordam beradi",
+        "B": "Daromadlar darajasidan qat’i nazar barcha fuqarolar uchun bir xil iqtisodiy natijani kafolatlaydi",
+        "C": "Iqtisodiy muammolar davrida davlatning ijtimoiy xarajatlarini avtomatik ravishda kamaytiradi",
+        "D": "Mehnat bozorida faol ishtirok etishga bo‘lgan ehtiyojni to‘liq bartaraf etib, kasbiy malakani oshirish zaruratini yo‘qotadi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Xo‘jalik yurituvchi subyektlar iqtisodiy xavfsizligi nimani ifodalaydi?",
+      "options": {
+        "A": "Tarmoqdagi raqobatchilar faoliyatining korxona manfaatlariga ta’sir qilmaydigan holatga keltirilishi va raqobatning cheklanishini",
+        "B": "Korxona ishlab chiqarish hajmining har qanday sharoitda doimiy ravishda oshib borishini",
+        "C": "Korxona daromadlarining bozor sharoitlaridan qat’i nazar davlat tomonidan kafolatlanishini",
+        "D": "Korxonaning iqtisodiy manfaatlari, resurslari va faoliyat natijalarining turli tahdidlardan himoyalangan holatini"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Korxona iqtisodiy xavfsizligining tarkibiy qismlaridan biri qaysi?",
+      "options": {
+        "A": "Korxonada mahsulot dizaynini ishlab chiqish",
+        "B": "Korxonada savdo maydonlarini joylashtirish",
+        "C": "Korxonaning moliyaviy xavfsizligi",
+        "D": "Korxonada reklama kampaniyalarini tashkil etish"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Korxonaning to‘lov qobiliyati nimani tavsiflaydi?",
+      "options": {
+        "A": "Korxonaning mahsulotlarini bozorda tanitish uchun amalga oshiradigan reklama faoliyatini",
+        "B": "Korxonaning o‘z majburiyatlarini belgilangan muddatlarda bajarish imkoniyatini",
+        "C": "Korxonaning yangi texnologiyalarni ishlab chiqarishga joriy etish tezligini",
+        "D": "Korxonadagi xodimlar sonining ishlab chiqarish quvvatlariga nisbatan o‘zgarishini"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Rentabellik ko‘rsatkichi korxona faoliyatida nimani ifodalaydi?",
+      "options": {
+        "A": "Korxona ishlab chiqarayotgan mahsulotlarning bozor assortimentidagi ulushini",
+        "B": "Korxonaning asosiy vositalari texnik holati va ulardan foydalanish muddatini hamda eskirish darajasini",
+        "C": "Korxonaning kredit va qarz majburiyatlari bo‘yicha to‘lov muddatlarini",
+        "D": "Olingan foydaning sarflangan resurslar yoki tushumga nisbati orqali faoliyat samaradorligini"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Korxona iqtisodiy xavfsizligiga ichki tahdid qaysi javobda berilgan?",
+      "options": {
+        "A": "Tashqi bozorlarda korxona mahsulotlariga bo‘lgan talabning pasayishi",
+        "B": "Xalqaro valyuta bozorida milliy valyuta kursining keskin o‘zgarishi",
+        "C": "Moliyaviy boshqaruv xatolari, kadrlar yetishmasligi va ichki nazoratning sustligi",
+        "D": "Jahon bozorida korxona foydalanadigan xomashyo narxlarining keskin o‘zgarishi va importga bog‘liqlik"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Risk-menejmentning asosiy vazifasi nimadan iborat?",
+      "options": {
+        "A": "Korxonaning kelgusi daromadlarini bozor sharoitlaridan qat’i nazar oldindan belgilash",
+        "B": "Raqobatchilarning bozor strategiyalarini korxona nomidan boshqarish",
+        "C": "Xavflarni aniqlash, baholash, boshqarish va ularning salbiy oqibatlarini kamaytirish",
+        "D": "Korxona faoliyatining barcha yo‘nalishlarini xavfsiz deb e’lon qilish va nazorat jarayonlarini qisqartirish"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Korxonaning raqobatbardoshligi iqtisodiy xavfsizlik bilan qanday bog‘liq?",
+      "options": {
+        "A": "Yuqori raqobatbardoshlik korxonaning bozor barqarorligi va manfaatlarini himoya qilish imkoniyatini oshiradi",
+        "B": "Raqobatbardoshlik korxonaning moliyaviy majburiyatlarini bajarishiga hech qanday ta’sir ko‘rsatmaydi",
+        "C": "Raqobatbardoshlik darajasi korxonaning iqtisodiy xavfsizligidan mustaqil ravishda shakllanadi",
+        "D": "Raqobatbardoshlik reklama faoliyatining samaradorligini belgilab, ishlab chiqarishga ta’sir qilmaydi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Korxona iqtisodiy xavfsizligini ta’minlash strategiyasi nimaga yo‘naltiriladi?",
+      "options": {
+        "A": "Korxona faoliyatida qisqa muddatli moliyaviy natijalarga ustuvor ahamiyat berishga",
+        "B": "Raqobatchilar bilan iqtisodiy aloqalarni imkon qadar to‘liq to‘xtatishga",
+        "C": "Tahdidlarni oldindan aniqlash va korxonaning barqaror faoliyatini ta’minlashga",
+        "D": "Korxona ishlab chiqarish hajmini xavflarni hisobga olmasdan maksimal darajada kengaytirishga"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Biznes iqtisodiy xavfsizligini ta’minlashning asosiy maqsadi nima?",
+      "options": {
+        "A": "Biznes manfaatlarini tahdidlardan himoya qilib, tadbirkorlik faoliyati barqarorligini saqlash",
+        "B": "Tadbirkorlik faoliyatidagi barcha moliyaviy xavflarni davlat zimmasiga o‘tkazish",
+        "C": "Bozordagi raqobatni kamaytirish uchun xo‘jalik yurituvchi subyektlar sonini cheklash va yangi kirishni to‘xtatish",
+        "D": "Korxonaning iqtisodiy faoliyatini ichki bozor bilan chegaralash"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Kichik biznes iqtisodiy xavfsizligining o‘ziga xos jihatlaridan biri qaysi?",
+      "options": {
+        "A": "Kichik biznes faoliyatida raqobat muhitining iqtisodiy natijalarga ta’sir qilmasligi",
+        "B": "Kichik korxonalarda iqtisodiy risklarni boshqarish mexanizmlariga ehtiyoj mavjud emasligi va ularning o‘z-o‘zidan yo‘qolishi",
+        "C": "Kichik biznes subyektlarining bozor o‘zgarishlariga boshqa korxonalardan butunlay mustaqil bo‘lishi",
+        "D": "Resurslar cheklanganligi sababli moliyaviy, axborot va bozor xavflariga nisbatan sezgirlikning yuqoriligi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "Tijorat siri nima?",
+      "options": {
+        "A": "Davlat statistikasida barcha xo‘jalik yurituvchi subyektlar uchun umumiy tarzda taqdim etiladigan axborot",
+        "B": "Korxonaning moliyaviy faoliyati to‘g‘risidagi barcha ma’lumotlarning ommaviy ravishda e’lon qilinishi va erkin tarqatilishi",
+        "C": "Biznes faoliyati uchun muhim bo‘lgan va qonuniy asosda cheklangan doiradagi shaxslar uchun ochiq bo‘lgan maxfiy axborot",
+        "D": "Korxonaning iste’molchilarni jalb qilish uchun ochiq reklama materiallarida foydalanadigan ma’lumotlari"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Tijorat sirini himoya qilishning muhim usuli qaysi?",
+      "options": {
+        "A": "Korxonaning texnologik va moliyaviy ma’lumotlarini barcha hamkorlar uchun bir xil darajada ochish",
+        "B": "Maxfiy axborotga kirish huquqini cheklash va xodimlar bilan tegishli majburiyatlarni belgilash",
+        "C": "Korxonaning barcha ichki hujjatlarini ochiq axborot resurslarida muntazam e’lon qilish",
+        "D": "Maxfiy ma’lumotlardan foydalanish jarayonida xodimlar faoliyatini umuman nazorat qilmaslik"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Biznes faoliyatiga tashqi tahdid sifatida qaysi omil qaraladi?",
+      "options": {
+        "A": "Korxona ichki hujjatlarida boshqaruv jarayonlarining yetarlicha aniq belgilanmaganligi",
+        "B": "Xodimlarning xizmat vazifalarini bajarishida ichki intizom talablariga rioya qilmasligi",
+        "C": "Raqobatchilar faolligining kuchayishi yoki xomashyo bozoridagi narxlarning o‘zgarishi",
+        "D": "Korxona rahbariyatining ichki rejalashtirish jarayonidagi tashkiliy kamchiliklari"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Ichki nazoratning biznes iqtisodiy xavfsizligidagi vazifasi nimadan iborat?",
+      "options": {
+        "A": "Ichki jarayonlar, resurslar va moliyaviy operatsiyalarning belgilangan tartibga muvofiqligini nazorat qilish",
+        "B": "Korxonaning davlatlararo iqtisodiy aloqalarini tashqi tashkilotlar orqali to‘liq boshqarish",
+        "C": "Mahsulotlarning bozor narxlarini barcha tadbirkorlik subyektlari uchun oldindan belgilash",
+        "D": "Raqobatchilarning bozordagi faoliyati va marketing strategiyalarini korxona nomidan boshqarish hamda ularni nazorat qilish"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Moliyaviy xavfsizlik tushunchasi nimani anglatadi?",
+      "options": {
+        "A": "Korxonalar foydasini bozor sharoitlaridan qat’i nazar davlat tomonidan kafolatlashni",
+        "B": "Bank kreditlari hajmini doimiy ravishda kengaytirish orqali iqtisodiy faollikni oshirish va qarz yukini ko‘paytirishni",
+        "C": "Davlat budjetining daromadlarini har qanday iqtisodiy sharoitda o‘zgarmas darajada saqlashni",
+        "D": "Moliyaviy resurslar, manfaatlar va moliya tizimining barqarorligini tahdidlardan himoya qilish holatini"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 47,
+      "question": "Moliyaviy xavfsizlikning muhim ko‘rsatkichlaridan biri qaysi?",
+      "options": {
+        "A": "Mehnat resurslarining hududiy taqsimlanish darajasi",
+        "B": "Korxonalarda xodimlar sonining o‘zgarish darajasi",
+        "C": "Qishloq xo‘jaligi yerlarining umumiy maydoni",
+        "D": "Iste’mol narxlari inflyatsiyasining darajasi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "Byudjet taqchilligi nimani bildiradi?",
+      "options": {
+        "A": "Byudjet xarajatlarining uning daromadlaridan ortiq bo‘lishi holatini",
+        "B": "Davlat daromadlarining rejalashtirilgan xarajatlardan yuqori shakllanishini",
+        "C": "Korxonaning ishlab chiqarish xarajatlari va mahsulotdan olingan foydasi o‘rtasidagi farqni",
+        "D": "Uy xo‘jaliklarida iste’mol xarajatlarining mavjud daromadlardan oshib ketishini"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Davlat qarzining iqtisodiy xavfsizlikdagi ahamiyati nimada?",
+      "options": {
+        "A": "Davlat qarzi xususiy korxonalarning moliyaviy holatini belgilaydi va davlat moliyasiga ta’sir qilmaydi",
+        "B": "Davlat qarzining iqtisodiy xavfsizlik ko‘rsatkichlariga aloqasi bo‘lmay, korxonalar faoliyatiga taalluqli bo‘ladi",
+        "C": "Uning hajmi va xizmat ko‘rsatish xarajatlari davlat moliyaviy barqarorligiga ta’sir ko‘rsatadi",
+        "D": "Davlat qarzining ortishi har qanday sharoitda iqtisodiy o‘sish sur’atlarini avtomatik ravishda oshiradi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Oltin-valyuta zaxiralari moliyaviy xavfsizlik uchun nima sababdan muhim?",
+      "options": {
+        "A": "Mamlakatdagi ish bilan bandlik darajasining asosiy miqdoriy mezonini shakllantiradi",
+        "B": "Davlat budjetidagi barcha xarajatlarni qo‘shimcha moliyalashtirish zaruratini va qarz olish ehtiyojini bartaraf etadi",
+        "C": "Tashqi to‘lovlarni bajarish va iqtisodiy shoklarga qarshi moliyaviy barqarorlikni qo‘llab-quvvatlaydi",
+        "D": "Ichki ishlab chiqarish hajmini davlat tomonidan bevosita belgilash imkoniyatini kengaytiradi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Inflyatsiyaning yuqori darajasi moliyaviy xavfsizlikka qanday ta’sir ko‘rsatishi mumkin?",
+      "options": {
+        "A": "Aholining real daromadlarini narxlar o‘sishidan tezroq oshirish imkonini beradi",
+        "B": "Pulning xarid qobiliyatini pasaytirib, moliyaviy barqarorlikka bosimni kuchaytirishi mumkin",
+        "C": "Moliya bozorlaridagi barcha tavakkalchiliklarning darajasini pasaytirib, investitsion faollikni kuchaytiradi",
+        "D": "Milliy valyutaning ichki bozordagi qiymatini avtomatik ravishda mustahkamlaydi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Moliyaviy xavfsizlikni ta’minlashda bank tizimining asosiy vazifasi nimaga bog‘liq?",
+      "options": {
+        "A": "Tashqi savdo siyosatining strategik yo‘nalishlarini mustaqil ravishda shakllantirishga",
+        "B": "To‘lovlar barqarorligi, kredit resurslari taqsimoti va moliyaviy vositachilikni ta’minlashga",
+        "C": "Korxonalarning ishlab chiqarish hajmini tarmoq xususiyatlaridan qat’i nazar belgilashga",
+        "D": "Davlatning barcha investitsiya loyihalarini bevosita bank mablag‘lari hisobidan amalga oshirishga"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Soliq tizimining iqtisodiy xavfsizlikdagi ahamiyati nimada?",
+      "options": {
+        "A": "Korxonalar tomonidan olinadigan foyda miqdorini bozor sharoitlaridan qat’i nazar barqaror saqlashida",
+        "B": "Tadbirkorlik faoliyatining barcha yo‘nalishlarini bevosita davlat boshqaruviga o‘tkazish va xususiy mulkni cheklashda",
+        "C": "Davlatning moliyaviy resurslarini shakllantirish va iqtisodiy jarayonlarni tartibga solish imkonini berishida",
+        "D": "Moliya bozorida yuzaga keladigan barcha tavakkalchiliklarni davlat hisobidan bartaraf etishida"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Kapitalning nazoratsiz chiqib ketishi qanday xavf tug‘dirishi mumkin?",
+      "options": {
+        "A": "Milliy moliyaviy barqarorlikni uzoq muddat davomida avtomatik ravishda kuchaytiradi",
+        "B": "Ichki investitsiya manbalarining hajmini tashqi omillardan qat’i nazar kengaytiradi",
+        "C": "Davlat budjetiga tushadigan tushumlarning muntazam ravishda ortishini va valyuta kursining barqarorligini ta’minlaydi",
+        "D": "Mamlakat moliyaviy resurslari va investitsion salohiyatining qisqarishiga olib kelishi mumkin"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Investitsion faoliyatning iqtisodiy xavfsizlikdagi ahamiyati nimada?",
+      "options": {
+        "A": "Ishlab chiqarish salohiyatini kengaytirish, kapitalni yangilash va iqtisodiy o‘sish uchun resurs yaratishida",
+        "B": "Xorijiy kapitalning milliy iqtisodiyotdagi ishtirokini barcha yo‘nalishlarda qisqartirish va import hajmini cheklashida",
+        "C": "Kapital mablag‘larini asosan qisqa muddatli moliyaviy operatsiyalarga yo‘naltirish imkonini berishida",
+        "D": "Iqtisodiyotdagi barcha xavflarni ishlab chiqarish natijalaridan qat’i nazar bartaraf etishida"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Innovatsion faoliyatning iqtisodiy xavfsizlikka ta’siri qanday?",
+      "options": {
+        "A": "Innovatsion jarayonlarni iqtisodiy xavfsizlik masalalaridan alohida boshqarish imkonini beradi",
+        "B": "Ishlab chiqarish xarajatlarining iqtisodiy sharoitlardan qat’i nazar o‘zgarmasligini ta’minlaydi",
+        "C": "Texnologik salohiyat va raqobatbardoshlikni oshirish orqali iqtisodiy barqarorlikni mustahkamlaydi",
+        "D": "Korxonalarning texnologik yangilanishga bo‘lgan ehtiyojini ishlab chiqarish hajmi orqali kamaytiradi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Investitsiyalarning YaIMdagi ulushi nimani tavsiflaydi?",
+      "options": {
+        "A": "Davlat tashqi qarzining yalpi ichki mahsulotga nisbatan miqdorini ko‘rsatadi",
+        "B": "Mamlakatning eksport va import qiymatlari o‘rtasidagi tafovutni belgilaydi",
+        "C": "Aholining umumiy iste’mol xarajatlari iqtisodiyotdagi ulushini ifodalaydi",
+        "D": "Mamlakat iqtisodiyotida investitsiya faoliyatining nisbiy ko‘lamini ko‘rsatadi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "Xorijiy investitsiyalar hajmining iqtisodiy xavfsizlikdagi ahamiyati nimada?",
+      "options": {
+        "A": "Xorijiy kapitaldan davlat budjeti xarajatlarini moliyalashtirish vositasi sifatida foydalanishni anglatadi",
+        "B": "Kapital, texnologiya va boshqaruv tajribasini jalb qilish orqali ishlab chiqarish salohiyatini oshirishi mumkin",
+        "C": "Mamlakatning texnologik rivojlanishini ichki moliyaviy imkoniyatlar bilan cheklab qo‘yadi",
+        "D": "Mahalliy ishlab chiqaruvchilarning iqtisodiy faoliyatini barcha sohalarda avtomatik ravishda qisqartiradi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Innovatsion mahsulotlar ulushi qaysi jarayonni baholashda muhim?",
+      "options": {
+        "A": "Aholining kambag‘allik darajasi va uy xo‘jaliklari xarajatlari tarkibini",
+        "B": "Iqtisodiyot va korxonalarning innovatsion faolligi hamda texnologik yangilanish darajasini",
+        "C": "Davlat budjeti taqchilligining iqtisodiyot tarmoqlari bo‘yicha taqsimlanishini",
+        "D": "Mamlakat tashqi qarzining mutlaq hajmini va unga xizmat ko‘rsatish xarajatlarini hamda to‘lov muddatlarini"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Investitsion xavfsizlikka tahdid soluvchi omil qaysi?",
+      "options": {
+        "A": "Investitsion muhitning nobarqarorligi va mulk huquqining yetarlicha himoyalanmasligi",
+        "B": "Investitsiya loyihalarida zamonaviy texnologiyalardan foydalanish ko‘lamining kengayishi",
+        "C": "Investitsiya infratuzilmasining rivojlanishi va xizmatlar sifatining yaxshilanishi",
+        "D": "Investorlar faoliyati uchun huquqiy kafolatlarning mustahkamlanishi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Texnologik qoloqlikning iqtisodiy xavfsizlikka ta’siri qanday?",
+      "options": {
+        "A": "Ishlab chiqarish samaradorligi va raqobatbardoshlikning pasayishiga olib kelishi mumkin",
+        "B": "Ishlab chiqarish xarajatlarini texnologik yangilanishsiz muntazam ravishda kamaytiradi",
+        "C": "Milliy iqtisodiyotning innovatsion salohiyatini mavjud texnologiyalar hisobidan kengaytiradi",
+        "D": "Investitsiya oqimlarining uzoq muddatli va barqaror o‘sishini ta’minlashga xizmat qiladi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Investitsion xavfsizlikni ta’minlashda davlatning muhim vositasi qaysi?",
+      "options": {
+        "A": "Xorijiy investorlarning faoliyatini ichki bozorning ayrim segmentlari bilan chegaralash",
+        "B": "Xususiy investitsiyalarni strategik ahamiyatga ega barcha sohalarda ma’muriy usulda cheklash",
+        "C": "Investitsiya loyihalarining asosiy qismini davlat mablag‘lari orqali moliyalashtirish",
+        "D": "Investorlar uchun barqaror huquqiy muhit, infratuzilma va iqtisodiy rag‘batlarni shakllantirish"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "Oziq-ovqat xavfsizligi tushunchasi qaysi javobda to‘g‘ri ifodalangan?",
+      "options": {
+        "A": "Mamlakatning barcha oziq-ovqat ehtiyojlarini ichki ishlab chiqarish orqali qoplash siyosati",
+        "B": "Oziq-ovqat mahsulotlari importini iqtisodiy sharoitlardan qat’i nazar qisqartirish mexanizmi",
+        "C": "Aholining yetarli miqdorda, sifatli va xavfsiz oziq-ovqat mahsulotlariga barqaror ega bo‘lish imkoniyati",
+        "D": "Qishloq xo‘jaligi mahsulotlarining asosiy qismini tashqi bozorlarga yo‘naltirish va ichki iste’molni cheklash strategiyasi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Oziq-ovqat xavfsizligini baholash ko‘rsatkichlaridan biri qaysi?",
+      "options": {
+        "A": "Asosiy oziq-ovqat mahsulotlari bilan o‘zini o‘zi ta’minlash darajasi",
+        "B": "Davlat qarzining yalpi ichki mahsulotga nisbatan shakllangan ko‘rsatkichi",
+        "C": "Mamlakatning oltin-valyuta zaxiralari umumiy hajmi",
+        "D": "Korxonalar faoliyatida shakllanadigan rentabellik darajasi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Oziq-ovqat mahsulotlari bilan o‘zini o‘zi ta’minlash darajasi nimani bildiradi?",
+      "options": {
+        "A": "Qishloq xo‘jaligida foydalanilayotgan yer maydonlarining umumiy miqdorini",
+        "B": "Aholining mavjud daromadlaridan oziq-ovqatga sarflanadigan xarajatlar ulushini",
+        "C": "Ichki ehtiyojlarning mahalliy ishlab chiqarish hisobidan qoplanish darajasini",
+        "D": "Mamlakatning tashqi bozorlarga chiqaradigan qishloq xo‘jaligi mahsulotlari hajmini"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Oziq-ovqat xavfsizligiga tahdid soluvchi ichki omil qaysi?",
+      "options": {
+        "A": "Qishloq xo‘jaligi mahsuldorligining pastligi va ishlab chiqarish samaradorligining yetarli emasligi",
+        "B": "Xalqaro bozorda oziq-ovqat mahsulotlari narxlarining nisbatan barqaror shakllanishi",
+        "C": "Mahalliy qishloq xo‘jaligida zamonaviy ishlab chiqarish texnologiyalarining kengayishi va hosildorlikning ortishi",
+        "D": "Oziq-ovqat mahsulotlarini saqlash va tashish infratuzilmasining rivojlanishi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Suv tanqisligi oziq-ovqat xavfsizligiga qanday ta’sir qiladi?",
+      "options": {
+        "A": "Oziq-ovqat mahsulotlariga bo‘lgan ichki talabni avtomatik ravishda kamaytiradi",
+        "B": "Qishloq xo‘jaligi ishlab chiqarish samaradorligini tabiiy resurslar hajmidan qat’i nazar oshiradi",
+        "C": "Mamlakatning oziq-ovqat importiga bo‘lgan ehtiyojini barcha sharoitlarda qisqartiradi",
+        "D": "Qishloq xo‘jaligi ishlab chiqarish hajmi va hosildorlikning pasayishiga sabab bo‘lishi mumkin"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 68,
+      "question": "Iqlim o‘zgarishining oziq-ovqat xavfsizligiga ta’siri qaysi yo‘nalishda namoyon bo‘lishi mumkin?",
+      "options": {
+        "A": "Oziq-ovqat mahsulotlari narxlarining uzoq muddat davomida o‘zgarmasligini ta’minlash va talabni barqarorlashtirish orqali",
+        "B": "Qishloq xo‘jaligida foydalaniladigan tabiiy resurslarga bo‘lgan ehtiyojni kamaytirish orqali",
+        "C": "Mahalliy oziq-ovqat ishlab chiqarishining hajmini qo‘shimcha shartlarsiz kengaytirish orqali",
+        "D": "Hosildorlik, suv ta’minoti va qishloq xo‘jaligi ishlab chiqarishining barqarorligiga ta’sir qilish orqali"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "Oziq-ovqat narxlari barqarorligi nima sababdan xavfsizlik indikatori hisoblanadi?",
+      "options": {
+        "A": "Mahsulot narxlarining pasayishi barcha ishlab chiqaruvchilarning daromadlarini bir xil darajada oshiradi",
+        "B": "Oziq-ovqat narxlari mamlakatning tashqi eksport imkoniyatlarini ifodalovchi ko‘rsatkich hisoblanadi",
+        "C": "Narxlarning keskin tebranishi aholining oziq-ovqat mahsulotlarini xarid qilish imkoniyatiga ta’sir qiladi",
+        "D": "Narxlarning o‘zgarishi qishloq xo‘jaligi ishlab chiqarish xarajatlariga aloqador bo‘lmagan jarayon hisoblanadi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Agrar sohani davlat tomonidan qo‘llab-quvvatlashning maqsadi nimaga qaratiladi?",
+      "options": {
+        "A": "Qishloq xo‘jaligi ishlab chiqarishining barqarorligi, samaradorligi va oziq-ovqat ta’minotini mustahkamlashga",
+        "B": "Fermer xo‘jaliklarining bozor mexanizmlaridan foydalanish imkoniyatlarini qisqartirishga",
+        "C": "Qishloq xo‘jaligi mahsulotlarini ishlab chiqarishni davlat korxonalari faoliyati bilan bog‘lashga",
+        "D": "Oziq-ovqat mahsulotlari importini iqtisodiy sharoitlardan qat’i nazar to‘liq to‘xtatish va narxlarni belgilab qo‘yishga"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Oziq-ovqat xavfsizligida mahsulot sifati nima uchun muhim?",
+      "options": {
+        "A": "Qishloq xo‘jaligida ishlab chiqarish xarajatlarini barcha sharoitlarda kamaytirib, narxlarni pasaytiradi",
+        "B": "Oziq-ovqat mahsulotlarining ichki iste’mol talablariga bog‘liqligini kamaytiradi",
+        "C": "Mahsulotlarning tashqi bozorlarga chiqarilish hajmini avtomatik ravishda oshiradi",
+        "D": "Oziq-ovqatning aholining salomatligi uchun xavfsizligi va iste’mol talablariga mosligini ta’minlaydi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "Yashirin iqtisodiyot tushunchasi nimani anglatadi?",
+      "options": {
+        "A": "Davlat tomonidan qonuniy ravishda qo‘llab-quvvatlanadigan innovatsion va investitsion faoliyatni",
+        "B": "Korxonalarning ochiq hisobotlarda aks ettiriladigan moliyaviy operatsiyalarini",
+        "C": "Xalqaro bozorda qonunchilik talablariga muvofiq amalga oshiriladigan eksport faoliyatini",
+        "D": "Rasmiy statistik yoki huquqiy hisobdan chetda amalga oshiriladigan iqtisodiy faoliyatni"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 73,
+      "question": "Yashirin iqtisodiyotning vujudga kelish sabablaridan biri qaysi?",
+      "options": {
+        "A": "Davlat xizmatlarining elektron shaklga o‘tkazilishi va ma’lumot almashinuvining tezlashishi hamda shaffoflikning oshishi",
+        "B": "Yuqori ma’muriy to‘siqlar, soliq bilan bog‘liq muammolar va nazorat mexanizmlarining samarasizligi",
+        "C": "Biznes yuritish sharoitlarining soddalashishi va tadbirkorlik xizmatlarining yaxshilanishi",
+        "D": "Raqamli to‘lov tizimlarining rivojlanishi va elektron hisob-kitoblarning kengayishi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Yashirin iqtisodiyotning shakllaridan biri qaysi?",
+      "options": {
+        "A": "Rasmiy tartibda amalga oshiriladigan davlat xaridlari",
+        "B": "Qonuniy asosda olib boriladigan investitsiya faoliyati",
+        "C": "Rasmiy tartibda amalga oshiriladigan eksport operatsiyalari",
+        "D": "Rasmiy hisobga olinmagan norasmiy bandlik"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "Soliqdan bo‘yin tovlash yashirin iqtisodiyotga qanday aloqador?",
+      "options": {
+        "A": "Daromad yoki faoliyatni rasmiy hisobdan yashirib, soliq majburiyatlarini kamaytirishga qaratilgan harakatni",
+        "B": "Soliq to‘lovlarini qonunchilikda belgilangan tartibda hisoblash va amalga oshirish jarayonini ifodalaydi",
+        "C": "Davlat budjeti xarajatlarini iqtisodiyot tarmoqlari bo‘yicha rejalashtirish mexanizmini anglatadi",
+        "D": "Korxonaning qonuniy investitsiya loyihalarini moliyalashtirish tartibini ifodalaydi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Yashirin iqtisodiyotning YaIMdagi ulushi qanday maqsadda baholanadi?",
+      "options": {
+        "A": "Korxonalarning rentabellik darajasini tarmoq kesimida aniqlash va ularni taqqoslash uchun",
+        "B": "Mamlakatning oltin-valyuta zaxiralari hajmini hisoblash uchun",
+        "C": "Rasmiy hisobga olinmayotgan iqtisodiy faoliyat ko‘lamini taxminiy aniqlash uchun",
+        "D": "Aholining tabiiy o‘sish sur’atlarini hududlar bo‘yicha baholash uchun"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 77,
+      "question": "Norasmiy bandlikning iqtisodiy oqibatlaridan biri qaysi?",
+      "options": {
+        "A": "Mehnat bozorining barcha segmentlarida rasmiy bandlikning tezlashishi",
+        "B": "Davlat budjetiga tushadigan soliq va ijtimoiy to‘lovlarning avtomatik ravishda ko‘payishi",
+        "C": "Mehnat munosabatlarining huquqiy himoyasi va ijtimoiy sug‘urta qamrovining zaiflashishi",
+        "D": "Xodimlarning mehnat huquqlari va ijtimoiy kafolatlarining kengayishi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "Korrupsiya iqtisodiy xavfsizlikka qanday ta’sir ko‘rsatishi mumkin?",
+      "options": {
+        "A": "Resurslarning samarasiz taqsimlanishi, boshqaruv sifatining pasayishi va iqtisodiy yo‘qotishlarga sabab bo‘lishi mumkin",
+        "B": "Investitsion muhitning barqarorligini barcha iqtisodiy sharoitlarda mustahkamlashga yordam berib, kapital oqimini ko‘paytiradi",
+        "C": "Raqobat muhitining shaffofligini kuchaytirib, iqtisodiy subyektlar o‘rtasidagi tenglikni ta’minlaydi",
+        "D": "Davlat xarajatlaridan foydalanish samaradorligini bozor mexanizmlaridan qat’i nazar oshiradi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Yashirin iqtisodiyotni qisqartirishda raqamlashtirishning ahamiyati nimada?",
+      "options": {
+        "A": "Soliq tizimini xo‘jalik yurituvchi subyektlarning kundalik faoliyatidan ajratishda",
+        "B": "Norasmiy iqtisodiy faoliyatni statistik kuzatuvlardan chiqarib tashlash imkoniyatini yaratish va hisobotlardan ozod qilishda",
+        "C": "Operatsiyalar shaffofligini oshirish va iqtisodiy faoliyatni rasmiy hisobga olish imkoniyatlarini kengaytirishda",
+        "D": "Naqd pul muomalasini kengaytirish orqali iqtisodiy operatsiyalarni nazorat qilishni qisqartirishda"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Yashirin iqtisodiyotga qarshi kurashishda naqd pulsiz hisob-kitoblarning ahamiyati nimada?",
+      "options": {
+        "A": "Norasmiy faoliyatni qonunchilik talablarisiz mustaqil ravishda rasmiylashtiradi",
+        "B": "Moliyaviy operatsiyalarni kuzatish va rasmiy iqtisodiy aylanmani aniqlash imkoniyatini oshiradi",
+        "C": "Barcha xo‘jalik operatsiyalarini soliq majburiyatlaridan avtomatik ravishda ozod qilib, hisobotni soddalashtiradi",
+        "D": "Korxonalar o‘rtasidagi raqobat darajasini davlat tomonidan cheklashga xizmat qiladi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "Axborot xavfsizligi tushunchasi nimani anglatadi?",
+      "options": {
+        "A": "Axborotning maxfiyligi, yaxlitligi va undan foydalanish imkoniyatini tahdidlardan himoya qilish holatini",
+        "B": "Barcha axborot resurslarini foydalanuvchilar uchun cheklovsiz ochiq shaklda joylashtirish va tarqatish tizimini",
+        "C": "Korxonalar o‘rtasidagi ma’lumot almashinuvini barcha holatlarda cheklash usulini",
+        "D": "Kompyuter qurilmalarini texnik nosozliklardan himoyalash jarayonini"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Axborot xavfsizligining asosiy tamoyillari qaysi javobda to‘g‘ri berilgan?",
+      "options": {
+        "A": "Raqobatbardoshlik, rentabellik va eksport",
+        "B": "Maxfiylik, yaxlitlik va foydalanuvchanlik",
+        "C": "Tejamkorlik, rentabellik va likvidlik",
+        "D": "Markazlashuv, standartlashuv va ixtisoslashuv"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Kiberhujum nima?",
+      "options": {
+        "A": "Internet tarmog‘ining texnik imkoniyatlarini kengaytirishga qaratilgan infratuzilmaviy tadbir",
+        "B": "Korxonada yangi axborot tizimini texnik va tashkiliy jihatdan ishga tushirish jarayoni",
+        "C": "Axborot tizimi yoki tarmog‘iga zarar yetkazish yoxud ma’lumotni egallashga qaratilgan raqamli hujum",
+        "D": "Axborot resurslarini qonunchilik talablariga muvofiq yangilash va tartibga keltirish jarayoni"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "question": "Ma’lumotlar sizib chiqishi qanday xavf hisoblanadi?",
+      "options": {
+        "A": "Muhim axborot resurslarining zaxira nusxalarini yaratish amaliyoti",
+        "B": "Himoyalangan axborotning ruxsatsiz shaxs yoki tizimlarga oshkor bo‘lishi bilan bog‘liq xavf",
+        "C": "Korxona axborot tizimining rejalashtirilgan texnik modernizatsiyasi",
+        "D": "Ochiq statistik ma’lumotlarni vakolatli foydalanuvchilarga taqdim etish va ularni muntazam yangilab borish jarayoni"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Axborot xavfsizligining dolzarbligi nimaga bog‘liq?",
+      "options": {
+        "A": "Raqamli iqtisodiyot sharoitida axborotning xo‘jalik faoliyatidagi ahamiyati pasayib, himoya ehtiyoji kamayib borishiga",
+        "B": "Raqamlashtirish kengaygani sari iqtisodiy va ijtimoiy jarayonlarning kiber tahdidlarga ta’sirchanligi ortishiga",
+        "C": "Kiberxavflarning iqtisodiy jarayonlardan mustaqil holda shakllanish xususiyatiga",
+        "D": "Korxonalar faoliyatida axborot tizimlaridan foydalanish ko‘lamining qisqarishiga"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Axborot tizimining yaxlitligi nimani anglatadi?",
+      "options": {
+        "A": "Axborot tizimining tashqi tarmoqlardan uzilgan holda faoliyat yuritishini",
+        "B": "Tizimda saqlanayotgan barcha ma’lumotlarning yagona formatga keltirilishini",
+        "C": "Ma’lumotlarning barcha foydalanuvchilar uchun hech qanday cheklovsiz ochiq bo‘lishini",
+        "D": "Ma’lumotlarning ruxsatsiz o‘zgartirilishidan himoyalanganligi va ishonchli saqlanishini"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Axborot tizimining foydalanuvchanligi nima?",
+      "options": {
+        "A": "Vakolatli foydalanuvchining zarur vaqtda axborot va tizim resurslaridan foydalanish imkoniyati",
+        "B": "Axborot tizimining mahalliy tarmoq doirasida ishlash imkoniyati va tashqi aloqalardan ajratilishi",
+        "C": "Tizimdagi barcha ma’lumotlarning istalgan shaxs uchun ochiq bo‘lishi",
+        "D": "Elektron ma’lumotlarni qo‘shimcha ravishda qog‘oz shaklida saqlash tartibi"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Kiberxavfsizlik tizimlarining asosiy vazifasi nima?",
+      "options": {
+        "A": "Axborot tizimlari va tarmoqlarni kiber tahdidlardan himoya qilish hamda xavflarni boshqarish",
+        "B": "Korxonalarning raqamli texnologiyalardan foydalanish darajasini kamaytirish",
+        "C": "Internet xizmatlaridan foydalanishni barcha foydalanuvchilar uchun umumiy tarzda cheklash",
+        "D": "Axborot tizimlarini tashqi foydalanuvchilardan texnik jihatdan to‘liq ajratish"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Axborot xavfsizligi ko‘rsatkichlaridan biri qaysi?",
+      "options": {
+        "A": "Qishloq xo‘jaligi mahsuldorligi va ekin maydonlari ko‘lami",
+        "B": "Kiberhujumlar soni va axborot tizimlarining himoyalanganlik darajasi",
+        "C": "Davlat budjeti taqchilligi va davlat xarajatlarining umumiy hajmi",
+        "D": "Aholining o‘rtacha daromadlari va iste’mol xarajatlari hajmi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Dezinformatsiya iqtisodiy xavfsizlikka qanday ta’sir qilishi mumkin?",
+      "options": {
+        "A": "Bozor ishtirokchilari foydalanadigan axborotning ishonchlilik darajasini avtomatik ravishda oshiradi",
+        "B": "Iqtisodiy qarorlarni qabul qilish jarayonida ma’lumotlarning aniqligini doimiy ravishda oshiradi",
+        "C": "Moliyaviy bozorlar faoliyatidagi noaniqliklarni kamaytirib, barqarorlikni kuchaytiradi",
+        "D": "Noto‘g‘ri axborot orqali bozor qarorlari va iqtisodiy barqarorlikka salbiy ta’sir ko‘rsatishi mumkin"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 91,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda davlat-xususiy sheriklikning ahamiyati nimada?",
+      "options": {
+        "A": "Bozordagi barcha xo‘jalik subyektlarining mustaqil qaror qabul qilish imkoniyatini cheklaydi",
+        "B": "Strategik loyihalarda davlat imkoniyatlari bilan xususiy sektor resurslari va tajribasini birlashtirishga xizmat qiladi",
+        "C": "Xususiy korxonalar faoliyatini davlat korxonalariga to‘liq o‘tkazish imkonini beradi",
+        "D": "Davlat investitsiyalarini ijtimoiy sohalarga yo‘naltirish mexanizmini shakllantiradi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda davlat-xususiy sheriklik loyihalarida qaysi omil muhim hisoblanadi?",
+      "options": {
+        "A": "Tomonlarning majburiyatlari, risklari va manfaatlarini aniq belgilash",
+        "B": "Loyihani moliyalashtirishda barcha tavakkalchiliklarni davlat zimmasiga yuklash",
+        "C": "Loyihaning iqtisodiy natijalarini qisqa muddatli daromad bilan baholash",
+        "D": "Xususiy investorlarning loyiha boshqaruvidagi ishtirokini cheklash"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda mahalliylashtirish siyosatining asosiy ahamiyati nimada?",
+      "options": {
+        "A": "Tashqi savdo operatsiyalarini barcha iqtisodiy yo‘nalishlarda to‘liq to‘xtatish va eksportni taqiqlashga qaratiladi",
+        "B": "Import o‘rnini bosuvchi mahsulot va butlovchi qismlarni mahalliy ishlab chiqarishni kengaytirishga yordam beradi",
+        "C": "Mahalliy korxonalarni xalqaro bozor talablaridan butunlay ajratib qo‘yadi",
+        "D": "Ichki ishlab chiqarish korxonalarining mahsulot assortimentini qisqartirishga xizmat qiladi"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Iqtisodiy xavfsizlik nuqtayi nazaridan strategik tarmoqlarni qo‘llab-quvvatlash nima uchun zarur?",
+      "options": {
+        "A": "Strategik tarmoqlardagi korxonalarni tashqi texnologiyalardan foydalanishdan cheklaydi va innovatsiyalarni sekinlashtiradi",
+        "B": "Barcha iqtisodiy resurslarni bitta tarmoq rivojiga yo‘naltirish imkonini beradi",
+        "C": "Raqobat muhitini iqtisodiyotning barcha sohalarida bekor qilishga xizmat qiladi",
+        "D": "Milliy iqtisodiyot uchun muhim ishlab chiqarish va xizmatlarning uzluksizligini ta’minlash imkonini beradi"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 95,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda davlat zaxiralarining vazifasi nimadan iborat?",
+      "options": {
+        "A": "Uzilish yoki favqulodda holatda muhim resurslarga bo‘lgan ehtiyojni vaqtincha qoplash imkonini yaratish",
+        "B": "Tadbirkorlik subyektlarining kundalik xarajatlarini doimiy ravishda moliyalashtirish",
+        "C": "Eksport hajmini tashqi bozor talablaridan qat’i nazar bir xil darajada saqlash",
+        "D": "Korxonalar tomonidan ishlab chiqariladigan barcha mahsulotlarning bozor narxlarini belgilash"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Iqtisodiy xavfsizlikka nisbatan krizisga qarshi boshqaruvning asosiy vazifasi nima?",
+      "options": {
+        "A": "Inqiroz oqibatlarini cheklash va iqtisodiy tizimning tiklanish imkoniyatlarini oshirish",
+        "B": "Tashqi iqtisodiy aloqalarni favqulodda vaziyatlarda butunlay bekor qilish",
+        "C": "Inqiroz davrida iqtisodiy faoliyatning asosiy turlarini vaqtincha to‘liq to‘xtatish",
+        "D": "Korxonalarning ishlab chiqarish rejalarini davlat tomonidan bir xil shaklda belgilash"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda davlatning antimonopol siyosati qanday ahamiyatga ega?",
+      "options": {
+        "A": "Bozordagi barcha yirik korxonalarni majburiy ravishda kichik korxonalarga aylantirishga qaratiladi",
+        "B": "Tadbirkorlik subyektlari o‘rtasidagi narx raqobatini ma’muriy usulda to‘liq bekor qiladi",
+        "C": "Raqobatni himoya qilish va bozorda ustun mavqedan suiiste’mol qilinishining oldini olishga xizmat qiladi",
+        "D": "Muayyan korxonaga bozorda cheklovsiz ustun mavqega ega bo‘lish imkonini beradi"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Iqtisodiy xavfsizlikni ta’minlashda iqtisodiy savodxonlikning ahamiyati nimada?",
+      "options": {
+        "A": "Aholining barcha moliyaviy qarorlarini davlat organlari tomonidan qabul qilish zaruratini kuchaytiradi",
+        "B": "Fuqarolarning tadbirkorlik faoliyatida mustaqil qaror qabul qilish imkoniyatlarini kamaytiradi",
+        "C": "Fuqarolarning ongli moliyaviy qaror qabul qilishi va iqtisodiy xavflarni anglash imkoniyatini oshiradi",
+        "D": "Uy xo‘jaliklarining iqtisodiy faoliyatini iste’mol xarajatlari bilan cheklaydi"
+      },
+      "answer": "C"
+    }
+  ]
+}
